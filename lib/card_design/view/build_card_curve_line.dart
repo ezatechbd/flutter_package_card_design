@@ -1,7 +1,7 @@
 library build_card_curve_line;
 import 'dart:math';
-import 'package:custom_alert_box/card_design/paint/custom_paint_curved_card.dart';
-import 'package:custom_alert_box/card_design/utils.dart';
+import 'package:custom_design/card_design/paint/custom_paint_curved_card.dart';
+import 'package:custom_design/card_design/utils.dart';
 import 'package:flutter/material.dart';
 
 class CurvedCard extends StatelessWidget {

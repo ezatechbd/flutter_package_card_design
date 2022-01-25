@@ -1,4 +1,4 @@
-import 'package:custom_alert_box/custom_design.dart';
+import 'package:custom_design/custom_design.dart';
 import 'package:flutter/material.dart';
 
 void main() {

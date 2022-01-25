@@ -23,7 +23,7 @@ class FlipVisitingCard extends StatefulWidget {
   final String address;
   const FlipVisitingCard({
     Key key,
-    @required this.visitingCardColor,
+    this.visitingCardColor = Colors.red,
     this.institutionLogoUrl = 'https://upload.wikimedia.org/wikipedia/en/a/a1/Dhaka_Medical_College_and_Hospital_logo.png',
     this.institutionName = 'Dhaka Medical College',
     this.slogan = 'YOUR SLOGAN',

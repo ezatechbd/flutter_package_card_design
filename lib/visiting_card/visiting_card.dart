@@ -5,6 +5,7 @@ import 'front_visiting_card_view.dart';
 
 class FlipVisitingCard extends StatefulWidget {
   //front
+  ///supports only blue, red and orange [ex. Colors.red]
   final Color visitingCardColor;
   final String institutionLogoUrl;
   final String institutionName;
